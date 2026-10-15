@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "llpwarriors.aternos.me",
-    "port": 53261,
+    "ip": "LLPSMPS2.aternos.me",
+    "port": 30502,
     "version": "1.20.1",
     "try-creative": false
   },
